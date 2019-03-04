@@ -1,0 +1,18 @@
+{
+    // "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es6",
+        "lib": ["es2015", "dom"],
+        "types": ["reflect-metadata", "mocha"], 
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "strictNullChecks": true,
+        "noImplicitAny": false, 
+        "noUnusedLocals": true,
+        "allowUnreachableCode": false,
+        "noImplicitThis": false,
+        "resolveJsonModule": true
+    }
+}
